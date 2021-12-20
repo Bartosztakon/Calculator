@@ -3,18 +3,14 @@
 def multiplication(num1, num2):
     return num1 * num2
 
-
 def addition(num1, num2):
     return num1 + num2
-
 
 def subtraction(num2, num1):
     return num1 - num2
 
-
 def divide(num1, num2):
     return num1 / num2
-
 
 while True:
     value1 = int(input("Enter 1st number: "))
